@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/P.ARYAPRAKASH/AppData/Local/Android/Sdk/platforms/android-30/data/res/layout/simple_spinner_item.xml" value="0.11646174863387979" />
+        <entry key="..\:/android-development/MEDiCOS/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.21435897435897436" />
+        <entry key="..\:/android-development/MEDiCOS/app/src/main/res/drawable/button_shape.xml" value="0.1451388888888889" />
+        <entry key="..\:/android-development/MEDiCOS/app/src/main/res/drawable/home_logo_makeup.xml" value="0.21435897435897436" />
+        <entry key="..\:/android-development/MEDiCOS/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.21203703703703702" />
+        <entry key="..\:/android-development/MEDiCOS/app/src/main/res/drawable/ic_home.xml" value="0.21203703703703702" />
+        <entry key="..\:/android-development/MEDiCOS/app/src/main/res/drawable/ic_home_.xml" value="0.21435897435897436" />
+        <entry key="..\:/android-development/MEDiCOS/app/src/main/res/drawable/ic_home__1_.xml" value="0.21203703703703702" />
+        <entry key="..\:/android-development/MEDiCOS/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.21203703703703702" />
+        <entry key="..\:/android-development/MEDiCOS/app/src/main/res/drawable/ic_notifications_black_24dp.xml" value="0.20833333333333334" />
+        <entry key="..\:/android-development/MEDiCOS/app/src/main/res/drawable/ic_prescription_.xml" value="0.21435897435897436" />
+        <entry key="..\:/android-development/MEDiCOS/app/src/main/res/drawable/ic_profile_.xml" value="0.21435897435897436" />
+        <entry key="..\:/android-development/MEDiCOS/app/src/main/res/drawable/main_button_colour.xml" value="0.1451388888888889" />
+        <entry key="..\:/android-development/MEDiCOS/app/src/main/res/drawable/nav_item_background.xml" value="0.21435897435897436" />
+        <entry key="..\:/android-development/MEDiCOS/app/src/main/res/drawable/nav_item_text.xml" value="0.21435897435897436" />
+        <entry key="..\:/android-development/MEDiCOS/app/src/main/res/drawable/shadowbackground.xml" value="0.1451388888888889" />
+        <entry key="..\:/android-development/MEDiCOS/app/src/main/res/drawable/shape.xml" value="0.21770833333333334" />
+        <entry key="..\:/android-development/MEDiCOS/app/src/main/res/drawable/shape2.xml" value="0.1451388888888889" />
+        <entry key="..\:/android-development/MEDiCOS/app/src/main/res/font/aladin.xml" value="0.1545138888888889" />
+        <entry key="..\:/android-development/MEDiCOS/app/src/main/res/layout/activity_first_slider.xml" value="0.19610507246376813" />
+        <entry key="..\:/android-development/MEDiCOS/app/src/main/res/layout/activity_main.xml" value="0.13333333333333333" />
+        <entry key="..\:/android-development/MEDiCOS/app/src/main/res/layout/activity_main2.xml" value="0.11168032786885246" />
+        <entry key="..\:/android-development/MEDiCOS/app/src/main/res/layout/activity_mobile_number_for_verify.xml" value="0.13333333333333333" />
+        <entry key="..\:/android-development/MEDiCOS/app/src/main/res/layout/activity_patient_details.xml" value="0.12056010928961748" />
+        <entry key="..\:/android-development/MEDiCOS/app/src/main/res/layout/activity_prescription_preview.xml" value="0.11441256830601093" />
+        <entry key="..\:/android-development/MEDiCOS/app/src/main/res/layout/activity_preview_prescription.xml" value="0.11441256830601093" />
+        <entry key="..\:/android-development/MEDiCOS/app/src/main/res/layout/activity_sign_up_log_in.xml" value="0.16666666666666666" />
+        <entry key="..\:/android-development/MEDiCOS/app/src/main/res/layout/activity_splash_screen.xml" value="0.19610507246376813" />
+        <entry key="..\:/android-development/MEDiCOS/app/src/main/res/layout/activity_user_input.xml" value="0.1539855072463768" />
+        <entry key="..\:/android-development/MEDiCOS/app/src/main/res/layout/activity_validate_otp.xml" value="0.17798913043478262" />
+        <entry key="..\:/android-development/MEDiCOS/app/src/main/res/layout/activity_write_prescription.xml" value="0.1" />
+        <entry key="..\:/android-development/MEDiCOS/app/src/main/res/layout/advice_test_box.xml" value="0.12" />
+        <entry key="..\:/android-development/MEDiCOS/app/src/main/res/layout/fragment_blank.xml" value="0.1051912568306011" />
+        <entry key="..\:/android-development/MEDiCOS/app/src/main/res/layout/fragment_dashboard.xml" value="0.14583333333333334" />
+        <entry key="..\:/android-development/MEDiCOS/app/src/main/res/layout/fragment_home.xml" value="0.14583333333333334" />
+        <entry key="..\:/android-development/MEDiCOS/app/src/main/res/layout/fragment_home_.xml" value="0.1" />
+        <entry key="..\:/android-development/MEDiCOS/app/src/main/res/layout/fragment_notifications.xml" value="0.14583333333333334" />
+        <entry key="..\:/android-development/MEDiCOS/app/src/main/res/layout/fragment_prescription.xml" value="0.11168032786885246" />
+        <entry key="..\:/android-development/MEDiCOS/app/src/main/res/layout/fragment_userProfile.xml" value="0.1" />
+        <entry key="..\:/android-development/MEDiCOS/app/src/main/res/layout/fragment_userprofile.xml" value="0.14666666666666667" />
+        <entry key="..\:/android-development/MEDiCOS/app/src/main/res/layout/nav_item_background.xml" value="0.16168478260869565" />
+        <entry key="..\:/android-development/MEDiCOS/app/src/main/res/layout/prescription_box.xml" value="0.1" />
+        <entry key="..\:/android-development/MEDiCOS/app/src/main/res/layout/slider_item.xml" value="0.15353260869565216" />
+        <entry key="..\:/android-development/MEDiCOS/app/src/main/res/layout/slider_item_two.xml" value="0.13677536231884058" />
+        <entry key="..\:/android-development/MEDiCOS/app/src/main/res/menu-v26/bottom_nav_menu.xml" value="0.2015625" />
+        <entry key="..\:/android-development/MEDiCOS/app/src/main/res/menu/bottom_nav_menu.xml" value="0.2015625" />
+        <entry key="..\:/android-development/MEDiCOS/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1109375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

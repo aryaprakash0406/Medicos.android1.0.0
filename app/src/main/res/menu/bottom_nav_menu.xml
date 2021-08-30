@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_home_"
+        android:title="@string/title_home"
+        android:checkable="true"
+        />
+
+    <item
+        android:id="@+id/navigation_prescription"
+        android:icon="@drawable/ic_prescription_"
+        android:title="@string/Prescription"
+        android:checkable="true"
+        />
+
+    <item
+        android:id="@+id/navigation_userprofile"
+        android:icon="@drawable/ic_profile_"
+        android:title="@string/Profile"
+        android:checkable="true"/>
+
+</menu>

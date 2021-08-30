@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">MEDiCOS</string>
+    <string name="title_home">Home</string>
+    <string name="register">REGISTER</string>
+    <string name="login">LOG IN</string>
+    <string name="todo">TODO</string>
+    <string name="Prescription">Prescription</string>
+    <string name="Profile">Profile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="what_does_medicos_do">What does medicos do?</string>
+    <string name="creating_an_online_centralised_platform_where_users_can_store_their_health_records_can_access_it_at_any_time_and_can_show_it_to_their_respective_doctors_to_get_the_best_treatment_possible">Creating an online centralised platform where users can store their health records, can access it at any time and can show it to their respective doctors to get the best treatment possible.</string>
+    <string name="home">Home</string>
+    <string-array name="Place_array">
+        <item>Bhubaneswar</item>
+        <item>Cuttack</item>
+        <item>Sambalpur</item>
+    </string-array>
+    <string-array name="LogIn_array">
+        <item>Doctor</item>
+        <item>Test-Center</item>
+        <item>Individual</item>
+    </string-array>
+    <string-array name="gender_array">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Others</item>
+    </string-array>
+    <string-array name="dose1">
+        <item>Dose 1</item>
+        <item>Before breakfast</item>
+        <item>After breakfast</item>
+        <item>Before Lunch</item>
+        <item>After Lunch</item>
+        <item>Evening</item>
+        <item>Before Dinner</item>
+        <item>After Dinner</item>
+    </string-array>
+    <string-array name="dose2">
+        <item>Dose 2</item>
+        <item>Before breakfast</item>
+        <item>After breakfast</item>
+        <item>Before Lunch</item>
+        <item>After Lunch</item>
+        <item>Evening</item>
+        <item>Before Dinner</item>
+        <item>After Dinner</item>
+    </string-array>
+    <string-array name="dose3">
+        <item>Dose 3</item>
+        <item>Before breakfast</item>
+        <item>After breakfast</item>
+        <item>Before Lunch</item>
+        <item>After Lunch</item>
+        <item>Evening</item>
+        <item>Before Dinner</item>
+        <item>After Dinner</item>
+    </string-array>
+</resources>
